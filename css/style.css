@@ -9,6 +9,7 @@ body {
 
 nav {
   height: 100px;
+  width: 100%;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -22,7 +23,7 @@ nav {
 nav .logo {
   width: 100px;
   height: 100px;
-  background-color: var(--red);
+  background-color: black;
   display: flex;
   justify-content: center;
   align-items: center;
