@@ -1,0 +1,88 @@
+:root {
+  --bg-color: #313131;
+  --dark-light: #525252;
+  --dark: #414141;
+  --red: #ca3e47;
+  --white: #eef4d5;
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url("../fonts/SF-Pro.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url("../fonts/SF-Pro.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url("../fonts/SF-Pro.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url("../fonts/SF-Pro.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "SF Pro";
+}
+
+body {
+  min-height: 100vh;
+  background-color: var(--bg-color);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 82px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+h2.heavy {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+h3 {
+  font-size: 36px;
+  font-weight: 600;
+}
+
+h3.heavy {
+  font-size: 30px;
+  font-weight: 900;
+}
+
+h4 {
+  font-size: 30px;
+  font-weight: 600;
+}
