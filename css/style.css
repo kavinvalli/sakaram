@@ -190,6 +190,10 @@ button:hover {
   border-right: 0px;
 }
 
+.button-group {
+  display: flex;
+}
+
 .buy-now {
   /*background-color: var(--bg-color);*/
   background-image: url("../images/closeup.png");
