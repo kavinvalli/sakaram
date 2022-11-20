@@ -7,4 +7,4 @@ The code for the dashboard with respect to the prompt shared is at [this](https:
 2) https://core-dashboard-2021.vercel.app/ - Dashboard Website
 
 ## Note
-For the Dashboard Website's spotify integration to work, please contact the developer at mail@kavin.me or discord him at kavin25125#4184 so that he can add you to the spotify developer email whitelist.
+For the Dashboard Website's spotify integration to work, please contact the developer at mail@kavin.me or discord him at kavinvalli#4184 so that he can add you to the spotify developer email whitelist.
